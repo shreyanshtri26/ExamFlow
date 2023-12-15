@@ -145,6 +145,14 @@ Run container and services
 ```bash
   docker-compose up
 ```
+<<<<<<< HEAD
+=======
+<!-- To Do -->
+## :notes: to-do
+  <ul>
+  <li> add more features </li>
+  </ul>
+>>>>>>> cb59cf59beb1762dd4fbb53084c4be0f8a9660fc
 
 <!-- Contact -->
 ## :handshake: Contact
