@@ -3,10 +3,10 @@
   display: inline-block;
   text-align : center;
   border : 1px solid black;
-  border-radius: 10px;
+  border-radius: 20%;
   padding : 20px;
 }
 
 .form-title {
-  font-size: 1.7em;
+  font-size: 2em;
 }

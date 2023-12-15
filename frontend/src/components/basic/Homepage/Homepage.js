@@ -16,7 +16,7 @@ function Homepage(){
     return (
       <div>
           <div className="parallax">
-            <HomepageHeader title='Exam Portal' img={logoImg}/>
+            <HomepageHeader title='ExamFlow' img={logoImg}/>
             <Login />
           </div>
       </div>
